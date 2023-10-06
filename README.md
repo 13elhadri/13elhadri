@@ -1,5 +1,5 @@
 # Hola soy Yahya el Hadri el Bakkali
-![octogato](https://github.com/13elhadri/13elhadri/blob/main/octocat-1696592532826.png)
+![octogato](https://github.com/13elhadri/13elhadri/blob/main/Captura%20de%20pantalla%202023-10-06%20144937.png)
 
 Estoy gradudo del grado medio de **MICROSISTEMAS INFORMATICOS Y REDES** en el *Ies La Cañuela(Yuncos)* y actualmente estoy cursando el grado superior de **DESAROLLO DE APPLICACIONES WEB** en el *Ies Luis Vives(Leganes)*.
 
