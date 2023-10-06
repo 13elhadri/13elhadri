@@ -1,4 +1,6 @@
-HOLA SOY YAHYA EL HADRI
-## Estoy estudiando 1º de DAW en el IES LUIS VIVES
+YAHYA EL HADRI
+## Formado en Desarolllo de Aplicaciones Web en el IES LUIS VIVES
 ### Soy un chico de toledo
+![mi octogato](![Uploading image.png…]())
+
 
