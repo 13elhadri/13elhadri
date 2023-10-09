@@ -1,4 +1,4 @@
-
+![IMAGEN](https://github.com/13elhadri/13elhadri/blob/main/WhatsApp%20Image%202023-10-09%20at%2015.31.50.jpeg)
 
 # Hola soy Yahya el Hadri el Bakkali
 Estoy gradudo del grado medio de **MICROSISTEMAS INFORMATICOS Y REDES** en el *Ies La Cañuela(Yuncos)* y actualmente estoy cursando el grado superior de **DESAROLLO DE APPLICACIONES WEB** en el *Ies Luis Vives(Leganes)*.
