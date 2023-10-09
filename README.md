@@ -1,4 +1,4 @@
-blob:https://web.whatsapp.com/5b9eb3c2-0211-422a-8ea9-36c6c30cd139
+!(IMAGEN)[https://web.whatsapp.com/5b9eb3c2-0211-422a-8ea9-36c6c30cd139]
 
 # Hola soy Yahya el Hadri el Bakkali
 Estoy gradudo del grado medio de **MICROSISTEMAS INFORMATICOS Y REDES** en el *Ies La Cañuela(Yuncos)* y actualmente estoy cursando el grado superior de **DESAROLLO DE APPLICACIONES WEB** en el *Ies Luis Vives(Leganes)*.
