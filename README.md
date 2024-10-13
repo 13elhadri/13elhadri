@@ -1,6 +1,6 @@
 ![IMAGEN](https://github.com/13elhadri/13elhadri/blob/main/WhatsApp%20Image%202023-10-09%20at%2015.31.50.jpeg)
 
-# Hola soy Yahya el Hadri el Bakkali
+# Yahya el Hadri el Bakkali
 ¡Hola! 👋 Soy Yahya, un apasionado estudiante de Desarrollo de Aplicaciones Web (DAW) con un fuerte interés en crear soluciones innovadoras y funcionales. Actualmente, estoy cursando mis estudios en IES Luis Vives y he adquirido habilidades en diversas tecnologías, incluyendo HTML, CSS, JavaScript.
 
 Antes de embarcarme en mi formación en DAW, obtuve el Grado Medio en Sistemas Microinformáticos y Redes (SMR), lo que me proporcionó una base sólida en el ámbito de la tecnología y la informática. Esta formación me ha permitido desarrollar un pensamiento crítico y una comprensión técnica que aplico en mis proyectos de desarrollo web.
