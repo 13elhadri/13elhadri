@@ -14,8 +14,11 @@ Estoy buscando oportunidades de prácticas o trabajos de nivel inicial donde pue
 ¡Gracias por visitar mi perfil!
 
 Yahya
+
 yahyaelhadricgs@gmail.com
+
 [[linkedin]](https://www.linkedin.com/in/yahya-el-hadri-el-bakkali-669045333/)
+
 [[gitHub]](https://github.com/13elhadri)
 
 
