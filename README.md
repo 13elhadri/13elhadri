@@ -17,9 +17,9 @@ Yahya
 
 yahyaelhadricgs@gmail.com
 
-[[linkedin]](https://www.linkedin.com/in/yahya-el-hadri-el-bakkali-669045333/)
+[LinkedIn](https://www.linkedin.com/in/yahya-el-hadri-el-bakkali-669045333/)
 
-[[gitHub]](https://github.com/13elhadri)
+[GitHub](https://github.com/13elhadri)
 
 
 ![octogato yahya](https://github.com/13elhadri/13elhadri/blob/main/octocat-1696596537377.png)
